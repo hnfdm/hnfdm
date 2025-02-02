@@ -4,9 +4,7 @@
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hnfdm&theme=github_dark" alt="GitHub Stats 1"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hnfdm&theme=github_dark" alt="GitHub Stats 2"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hnfdm&theme=github_dark" alt="GitHub Stats 3"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hnfdm&theme=github_dark" alt="GitHub Stats 4"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hnfdm&theme=github_dark&utcOffset=8" alt="GitHub Stats 5"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hnfdm&theme=github_dark&utcOffset=8" alt="GitHub Stats 3"/>
 </div>
 
 <!--
