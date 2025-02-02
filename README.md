@@ -2,7 +2,9 @@
     <img src="https://raw.githubusercontent.com/hnfdm/hnfdm/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hnfdm&theme=github_dark" alt="hnfdm's GitHub Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hnfdm&theme=github_dark" alt="GitHub Stats 1"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hnfdm&theme=github_dark" alt="GitHub Stats 2"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hnfdm&theme=github_dark" alt="GitHub Stats 3"/>
 </div>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hnfdm&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hnfdm&theme=github_dark)
