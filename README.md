@@ -1,4 +1,9 @@
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/hnfdm/hnfdm/output/github-contribution-grid-snake.svg)
+<div align="center">
+    <img src="https://raw.githubusercontent.com/hnfdm/hnfdm/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hnfdm&theme=github_dark" alt="hnfdm's GitHub Stats"/>
+</div>
 
 <!--
 **hnfdm/hnfdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
