@@ -1,6 +1,8 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/hnfdm/hnfdm/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/hnfdm/hnfdm/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
+  <img src="https://raw.githubusercontent.com/hnfdm/hnfdm/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
+
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hnfdm&theme=github_dark" alt="GitHub Stats 1"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hnfdm&theme=github_dark" alt="GitHub Stats 2"/>
