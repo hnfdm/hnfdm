@@ -2,6 +2,8 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/hnfdm/hnfdm/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
   <img src="https://raw.githubusercontent.com/hnfdm/hnfdm/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
+https://github.com/ZanePearton
+https://dev.to/zanepearton/creating-an-engaging-github-profile-a-step-by-step-guide-4hfl
 </div>
 -->
 
