@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+    <img src="https://raw.githubusercontent.com/hnfdm/hnfdm/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
 
 <!--
 **hnfdm/hnfdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
