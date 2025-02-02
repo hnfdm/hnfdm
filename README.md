@@ -4,6 +4,10 @@
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hnfdm&theme=github_dark" alt="hnfdm's GitHub Stats"/>
 </div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hnfdm&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hnfdm&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hnfdm&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hnfdm&theme=github_dark&utcOffset=8)
 
 <!--
 **hnfdm/hnfdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
