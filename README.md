@@ -20,8 +20,8 @@ Here are some of the tools and technologies I enjoy working with:
 
 | 🌐 Frontend         |🔧 Backend          | 📈 Blockchain       | ⚙️ Tools & Utilities |
 |---------------------|---------------------|---------------------|----------------------|
-| React, Next.js      | Node.js, Laravel,   | Solidity            | VSCode, Git, VPS     |
-| TypeScript          | Javascript,Python   |                     | Postman, Proxy,      |
+| React, Next.js,     | Node.js, Laravel,   | Solidity            | VSCode, Git, VPS,    |
+| TypeScript          | Javascript, Python  |                     | Postman, Proxy      |
 
 ---
 
@@ -29,7 +29,7 @@ Here are some of the tools and technologies I enjoy working with:
 - 📢 Official Website of [Airdrop ASC](https://airdropasc.com)
 - 🔍 This official website is a hub for crypto knowledge, project research, and collaboration opportunities. It aims to educate, inform, and connect visitors with insights into blockchain technology, crypto projects, and partnerships.
 - 🔑 Key Sections: Tutorials, Research (101), Partnership & About Us
-- 🛠️ Tech Stack: Frontend (React) & Hosting (Vercel)
+- 🛠️ Tech Stack: React & Vercel
 
 ---
 
@@ -46,7 +46,9 @@ Here are some of the tools and technologies I enjoy working with:
 ### 📫 Let’s Connect!
 
 🌐 [Portfolio](https://hnfdm.netlify.app/)
+
 🐦 [Twitter](https://twitter.com/hnfdmzyx)
+
 📧 [Email](mailto:hnfdm@proton.me)
 
 ---
