@@ -6,9 +6,10 @@ https://github.com/ZanePearton
 https://dev.to/zanepearton/creating-an-engaging-github-profile-a-step-by-step-guide-4hfl
 </div>
 -->
-<div align="center" text="bold">
-  👋 Hello there, I'm Hanip!
+<div align="center">
+  👋 <b>Hello there, I'm Hanip!</b>
 </div>
+
 - Developer | Tech Enthusiast | Problem Solver  
 - I love building things, solving problems, and continuously learning new technologies to keep up with the ever-evolving tech world.  
 - My current focus: Web Development, Blockchain, and Automation.
@@ -30,6 +31,7 @@ Here are some of the tools and technologies I enjoy working with:
 - 🔍 This official website is a hub for crypto knowledge, project research, and collaboration opportunities. It aims to educate, inform, and connect visitors with insights into blockchain technology, crypto projects, and partnerships.
 - 🔑 Key Sections: Tutorials, Research (101), Partnership & About Us
 - 🛠️ Tech Stack: React & Vercel
+- 🌐 Visit the official website to learn, explore, and collaborate with us!
 
 ---
 
