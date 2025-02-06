@@ -6,8 +6,8 @@ https://github.com/ZanePearton
 https://dev.to/zanepearton/creating-an-engaging-github-profile-a-step-by-step-guide-4hfl
 </div>
 -->
-<div align="center">
-#### 👋 Hello there, I'm Hanip!
+<div align="center" text="bold">
+  👋 Hello there, I'm Hanip!
 </div>
 - Developer | Tech Enthusiast | Problem Solver  
 - I love building things, solving problems, and continuously learning new technologies to keep up with the ever-evolving tech world.  
