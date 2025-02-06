@@ -9,25 +9,19 @@ https://dev.to/zanepearton/creating-an-engaging-github-profile-a-step-by-step-gu
 
 ### 👋 Hello there, I'm Hanip!
 
-🎯 **Developer | Tech Enthusiast | Problem Solver**  
-I love building things, solving problems, and continuously learning new technologies to keep up with the ever-evolving tech world.  
-My current focus: **Web Development**, **Blockchain**, and **Cloud Automation**.
+🎯 **Developer** | **Tech Enthusiast** | **Problem Solver**  
+👀 I love building things, solving problems, and continuously learning new technologies to keep up with the ever-evolving tech world.  
+🍀 My current focus: **Web Development**, **Blockchain**, and **Cloud Automation**.
 
 ---
 
 ### 🎨 **Tech Toolbox**
 Here are some of the tools and technologies I enjoy working with:
 
-| 🌐 Frontend         |🔧 Backend          |
-|---------------------|---------------------|
-| React, Next.js      | Node.js, Laravel,   |
-| TypeScript          | Javascript,Python   |
-|                     |                     |
-
-| 📈 Blockchain       | ⚙️ Tools & Utilities |
-|---------------------|----------------------|
-| Solidity            | VSCode, Git,         |
-|                     | VPS, Proxy           |
+| 🌐 Frontend         |🔧 Backend          | 📈 Blockchain       | ⚙️ Tools & Utilities |
+|---------------------|---------------------|---------------------|----------------------|
+| React, Next.js      | Node.js, Laravel,   | Solidity            | VSCode, Git, VPS     |
+| TypeScript          | Javascript,Python   |                     | Postman, Proxy,      |
 
 ---
 
@@ -35,22 +29,13 @@ Here are some of the tools and technologies I enjoy working with:
 - 📢 **[Airdrop ASC Official Website](https://airdropasc.com)**
 - 🔍 This official website is a hub for crypto knowledge, project research, and collaboration opportunities. It aims to educate, inform, and connect visitors with insights into blockchain technology, crypto projects, and partnerships.
 - 🔑 Key Sections:
-  1. 📚 Tutorials
-     - Step-by-step guides on Node.js and Debian (Linux) setups.
-     - Crypto-specific tutorials for managing nodes, staking, and wallet integration.
-  2. 🔍 Research (101)
-     - In-depth research articles on various crypto projects.
-     - Simplified beginner-friendly content explaining blockchain fundamentals.
-     - Project overviews, tokenomics, use cases, and technology assessments.
-  3. 🤝 Partnership
-     - A comprehensive list of collaborations with crypto projects and organizations.
-     - Contact Us for partnership inquiries (via email).
-  4. 👥 About Us
-     - Journey: Explore the history and milestones of the community.
-     - Team: Meet the core team members driving the vision forward.
+  - Tutorials
+  - Research (101)
+  - Partnership
+  - About Us
 - 🛠️ **Tech Stack**
-  1. Frontend: React
-  2. Hosting: Vercel
+  - Frontend: React
+  - Hosting: Vercel
 
 ---
 
