@@ -7,7 +7,7 @@ https://dev.to/zanepearton/creating-an-engaging-github-profile-a-step-by-step-gu
 </div>
 -->
 
-### 👋 Hello there, I'm Hanip!
+#### 👋 Hello there, I'm Hanip!
 
 - Developer | Tech Enthusiast | Problem Solver  
 - I love building things, solving problems, and continuously learning new technologies to keep up with the ever-evolving tech world.  
@@ -15,7 +15,7 @@ https://dev.to/zanepearton/creating-an-engaging-github-profile-a-step-by-step-gu
 
 ---
 
-### 🎨 Tech Toolbox
+#### 🎨 Tech Toolbox
 Here are some of the tools and technologies I enjoy working with:
 
 | 🌐 Frontend         |🔧 Backend          | 📈 Blockchain       | ⚙️ Tools & Utilities |
@@ -33,7 +33,7 @@ Here are some of the tools and technologies I enjoy working with:
 
 ---
 
-### 📊 GitHub Stats
+#### 📊 GitHub Stats
 
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hnfdm&theme=github_dark" alt="GitHub Stats 1"/>
@@ -43,14 +43,12 @@ Here are some of the tools and technologies I enjoy working with:
 
 ---
 
-### 📫 Let’s Connect!
+#### 📫 Let’s Connect!
 
-🌐 [Portfolio](https://hnfdm.netlify.app/)
-
-🐦 [Twitter](https://twitter.com/hnfdmzyx)
-
-📧 [Email](mailto:hnfdm@proton.me)
+- [Portfolio](https://hnfdm.netlify.app/)
+- [Twitter](https://twitter.com/hnfdmzyx)
+- [Email](mailto:hnfdm@proton.me)
 
 ---
 
-🌈 *If it works, don't touch it*  
+🐞 *If it works, don't touch it* 🐞
