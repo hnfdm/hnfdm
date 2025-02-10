@@ -37,10 +37,11 @@ Here are some of the tools and technologies I enjoy working with:
 ---
 
 #### 📊 GitHub Stats
-
+<!--
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hnfdm&theme=github_dark" alt="GitHub Stats 1"/>
 </div>
+-->
 <div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hnfdm&theme=github_dark" alt="GitHub Stats 2"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hnfdm&theme=github_dark" alt="GitHub Stats 3"/>
