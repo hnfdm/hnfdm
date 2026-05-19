@@ -33,7 +33,7 @@ A community hub for crypto knowledge, project research, and collaboration. Aimed
 #### 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hnfdm&theme=github-dark-blue&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&sideLabels=58A6FF&stroke=58A6FF&dates=58A6FF" />
+  <img src="https://streak-stats.demolab.com?user=hnfdm&theme=github-dark-blue&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 </p>
 
 ---
