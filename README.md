@@ -13,7 +13,7 @@ My current focus: **AI Agents**, **Solana**, **Canton Network** & **Full-Stack W
 #### 🎨 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,py,js,supabase,rust,solidity,git,github,vscode,vercel,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,py,js,php,laravel,supabase,postgres,docker,rust,solidity,git,github,vscode,vercel,postman&theme=dark" />
 </p>
 
 ---
