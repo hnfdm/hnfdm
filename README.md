@@ -12,27 +12,32 @@ https://dev.to/zanepearton/creating-an-engaging-github-profile-a-step-by-step-gu
 </div>
 -->
 #### 👋 Hello there, I'm Hanip!
-- 👓 Developer, Tech Enthusiast & Problem Solver  
-- 🖤 I love building things, solving problems, and continuously learning new technologies to keep up with the ever-evolving tech world.  
-- ⏱️ My current focus: Web Development, Blockchain, and Automation.
+- 💻 Full-Stack Developer, Web3 Builder & AI Enthusiast  
+- 🖤 I love building things at the intersection of blockchain & AI, from on-chain automation to intelligent agents that actually do stuff.  
+- ⏱️ My current focus: AI Agents, Solana, Canton Network & Full-Stack Web Development.
 
 ---
 
 #### 🎨 Tech Toolbox
 Here are some of the tools and technologies I enjoy working with:
 
-| 🌐 Frontend         |🔧 Backend          | 📈 Blockchain       | ⚙️ Tools & Utilities |
-|---------------------|---------------------|---------------------|----------------------|
-| React, Next.js,     | Node.js, Laravel,   | Solidity            | VSCode, Git, VPS,    |
-| TypeScript          | Javascript, Python  |                     | Postman, Proxy      |
+| 🌐 Frontend              | 🔧 Backend              | 📈 Blockchain           | 🤖 AI & Agents          | ⚙️ Tools & Infra        |
+|--------------------------|-------------------------|-------------------------|-------------------------|-------------------------|
+| Next.js, React,          | Node.js, Python,        | Solana, Anchor,         | LLM APIs, MCP,          | VSCode, Git, Vercel,    |
+| TypeScript, Tailwind CSS | Supabase, Javascript    | Canton Network, DAML    | Telegram Bot            | VPS, Postman            |
 
 ---
 
 #### 🌟 Currently Developed
-- 📢 Official Website of [Airdrop ASC](https://airdropasc.com)
-- 🔍 This official website is a hub for crypto knowledge, project research, and collaboration opportunities. It aims to educate, inform, and connect visitors with insights into blockchain technology, crypto projects, and partnerships.
-- 🔑 Key Sections: Tutorials, Research (101), Partnership & About Us
-- 🛠️ Tech Stack: React & Vercel
+
+**🤖 [Yapper Agent](https://yapperagent.xyz/)**  
+An AI-powered agent designed to automate on-chain interactions and social engagement. Built on Next.js 15, Solana (Anchor escrow), and Canton Network (DAML), with MCP protocol and LLM integrations to streamline crypto workflows through intelligent, natural language-driven task execution.
+
+**📦 [Droppr](https://droppr-omega.vercel.app/) *(paused)***  
+A lightweight airdrop distribution tool that simplifies token drops to multiple wallets. Designed for efficiency and ease of use across blockchain networks.
+
+**📢 [Airdrop ASC](https://main-asc.vercel.app) *(paused)***  
+A community hub for crypto knowledge, project research, and collaboration. Aimed at educating and connecting visitors with insights into blockchain technology, crypto projects, and partnerships.  
 
 ---
 
@@ -52,7 +57,7 @@ Here are some of the tools and technologies I enjoy working with:
 #### 📫 Let’s Connect!
 
 - 📑 [Portfolio](https://hnfdm.netlify.app/)
-- 🐣 [Twitter](https://twitter.com/hnfdmzyx)
+- 🐣 [Twitter](https://x.com/0xhnfdm)
 - 📧 [Email](mailto:hnfdm@proton.me)
 
 ---
