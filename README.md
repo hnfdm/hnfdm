@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Web3+Builder;AI+Agent+Engineer;Building+at+Blockchain+%C3%97+AI" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hnfdm&label=PROFILE+VIEWS&color=1F6FEB&style=flat-square" />
-</p>
-
 I love building things at the intersection of blockchain & AI — from on-chain automation to intelligent agents that actually do stuff.  
 My current focus: **AI Agents**, **Solana**, **Canton Network** & **Full-Stack Web Development.**
 
@@ -17,7 +13,7 @@ My current focus: **AI Agents**, **Solana**, **Canton Network** & **Full-Stack W
 #### 🎨 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,py,js,supabase,git,vscode,vercel,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,py,js,supabase,rust,solidity,git,github,vscode,vercel,postman&theme=dark" />
 </p>
 
 ---
@@ -62,5 +58,5 @@ A community hub for crypto knowledge, project research, and collaboration. Aimed
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:1F6FEB,100:58A6FF&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=120&color=0:0D1117,50:1F6FEB,100:58A6FF&section=footer&reversal=true"/>
 </p>
