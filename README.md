@@ -5,15 +5,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Web3+Builder;AI+Agent+Engineer;Building+at+Blockchain+%C3%97+AI" />
 </p>
 
-I love building things at the intersection of blockchain & AI — from on-chain automation to intelligent agents that actually do stuff.  
-My current focus: **AI Agents**, **Solana**, **Canton Network** & **Full-Stack Web Development.**
+I love building things at the intersection of blockchain & AI, from on-chain automation to intelligent agents that actually do stuff. My current focus is **AI Agents**, **Solana**, **Canton Network** & **Full-Stack Web Development.**
 
 ---
 
 #### 🎨 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,py,js,php,laravel,supabase,postgres,docker,rust,solidity,git,github,vscode,vercel,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,py,js,php,laravel,supabase,postgres,docker,rust,solidity,git,github,vscode,vercel,postman&theme=dark&perline=10" />
 </p>
 
 ---
@@ -57,6 +56,8 @@ A community hub for crypto knowledge, project research, and collaboration. Aimed
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=120&color=0:0D1117,50:1F6FEB,100:58A6FF&section=footer&reversal=true"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hnfdm/hnfdm/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hnfdm/hnfdm/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hnfdm/hnfdm/output/github-contribution-grid-snake.svg">
+</picture>
