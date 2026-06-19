@@ -22,7 +22,7 @@ My current focus is **AI Agents**, **Solana**, **Canton Network** & **Full-Stack
 #### Currently Developed
 
 **• [Yapper Agent](https://yapperagent.xyz/)**  
-An AI-powered agent designed to automate on-chain interactions and social engagement. Built on Next.js 15, Solana (Anchor escrow), and Canton Network (DAML), with MCP protocol and LLM integrations to streamline crypto workflows through intelligent, natural language-driven task execution.
+An all-in-one creator economy hub on Canton Network (Jobs, Store, Economy). Creators earn from verified social jobs, sell in an on-chain store, and manage earnings in a native wallet, while clients and AI agents post and fund jobs on-chain. Built on Next.js 15 and Canton (DAML), with x402 and MCP integrations enabling AI agents to hire human creators.
 
 **• [Droppr](https://droppr-omega.vercel.app/) *(paused)***  
 A lightweight airdrop distribution tool that simplifies token drops to multiple wallets. Designed for efficiency and ease of use across blockchain networks.
