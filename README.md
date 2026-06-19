@@ -27,8 +27,11 @@ An AI-powered agent designed to automate on-chain interactions and social engage
 **• [Droppr](https://droppr-omega.vercel.app/) *(paused)***  
 A lightweight airdrop distribution tool that simplifies token drops to multiple wallets. Designed for efficiency and ease of use across blockchain networks.
 
-**• [Airdrop ASC](https://main-asc.vercel.app) *(paused)***  
+**• [Airdrop ASC](https://airdropasc.com)**  
 A community hub for crypto knowledge, project research, and collaboration. Aimed at educating and connecting visitors with insights into blockchain technology, crypto projects, and partnerships.
+
+**• [Surya Trans](https://suryatrans.xyz)**  
+A car rental with driver website built with Next.js 15 and Tailwind CSS. Bilingual (ID/EN), dark/light mode, WhatsApp-integrated booking, and mobile-first. No backend.
 
 ---
 
